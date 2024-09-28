@@ -1,4 +1,4 @@
 # Learning
 this is my learning repo
 <br>
-Author - Laxmi Patidar
+Author - Laxmi omkar Patidar
